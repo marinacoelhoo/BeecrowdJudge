@@ -13,6 +13,7 @@ não esqueça de imprimir o fim de linha após o resultado, caso contrário, voc
 public class Media1 {
     public static void main(String[] args) {
 
+
         Scanner scanner = new Scanner(System.in);
 
         double a = 0;
